@@ -11,6 +11,7 @@
 	<groupId>com.jenkins.maven</groupId>
 	<artifactId>helloworld</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>helloworld</name>
 	<description>Hello World Spring Boot Application</description>
 
