@@ -36,7 +36,7 @@
 	<scm>
 		<connection>scm:git:ssh://git@github.com:alphacentrino/devops.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com:alphacentrino/devops.git</developerConnection>
-		<url>scm:git:ssh://git@github.com/alphacentrino/devops.git</url>
+		<url>git@github.com/alphacentrino/devops.git</url>
 		<tag>HEAD</tag>
 	</scm>
 
