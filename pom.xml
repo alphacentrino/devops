@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.jenkins.maven</groupId>
 	<artifactId>helloworld</artifactId>
-	<version>1.1.0-SNAPSHOT</version>
+	<version>1.2.0-SNAPSHOT</version>
 	<!-- Package type is declared here -->
 	<packaging>war</packaging>
 	<name>helloworld</name>
