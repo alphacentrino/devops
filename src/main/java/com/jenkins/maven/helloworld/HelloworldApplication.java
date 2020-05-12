@@ -9,7 +9,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 @SpringBootApplication
 public class HelloworldApplication extends SpringBootServletInitializer {
 
-	@Override
+@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder)
 	{
 		return builder.sources(HelloworldApplication.class);
